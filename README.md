@@ -16,6 +16,7 @@ Once its pasted to can see the button as compile
 ### Deploy the contract
 
 Before deploying make sure you have the enough cBTC to deploy as shown below 
+
 <img width="355" alt="Screenshot 2024-12-05 at 11 11 35 AM" src="https://github.com/user-attachments/assets/aed8cdf8-0c85-4799-a6c8-a3575da1b3b9">
 
 Once you have the smart contract compiled now try to deploy it.
